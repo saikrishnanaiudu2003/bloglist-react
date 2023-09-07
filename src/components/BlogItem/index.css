@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.list-container {
+  list-style-type: none;
+}
+.directon-container {
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
